@@ -2081,7 +2081,7 @@ nav a:hover {
 }
 
 .featured-area {
-  background: #fff;
+  background:#f9f9ff;
   padding: 60px 0 100px 0;
 }
 
@@ -2122,7 +2122,7 @@ nav a:hover {
 }
 
 .about-area {
-  background: #f9f9ff;
+  background: #fff;
   padding: 100px 0;
 }
 
@@ -2507,6 +2507,15 @@ nav a:hover {
   max-width: 70%;
 }
 
+.space-before {
+  margin-top: 10px;
+}
+
+.button-wrap {
+  width: 100%;
+  height: auto;
+}
+
 /* Skillbars */
 
 .skillbar {
@@ -2553,7 +2562,7 @@ nav a:hover {
   font-size: 11px;
   height: 22px;
   line-height: 22px;/*35*/
-  color: #444;
+  color: #7034db;
   color: rgba(0, 0, 0, 0.4);
 }
 
@@ -2567,3 +2576,4 @@ nav a:hover {
   margin-bottom: 20px;
   border-bottom: 1px solid #DDD;
 }
+
