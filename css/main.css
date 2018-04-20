@@ -2506,19 +2506,26 @@ nav a:hover {
 
 #super {
   font-family: "Press Start 2P", sans-serif;
-  margin-top: 50px;
+  margin-top: 10px;
   margin-bottom: 10px; 
   font-size: 80px;
-  color: yellow;
+  color: white;
   height: 80px;
 }
 
-#introMono {
+#intro-mono {
   text-align: center;
-  max-width: 70%;
-  margin-bottom: 10px;
+  width: 450px;
+  margin-bottom: 20px;
   -webkit-filter: invert(1);
   filter: invert(1);
+}
+
+#intro-subtitle {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
+  margin-bottom: 30px;
 }
 
 .space-before {
@@ -2530,7 +2537,6 @@ nav a:hover {
   height: auto;
 }
 
-/* Title */
 .title_content {
   display: inline-block;
   font-size: 20px;
@@ -2539,5 +2545,11 @@ nav a:hover {
   width: 100%;
   margin-bottom: 20px;
   border-bottom: 1px solid #DDD;
+}
+
+.menu-option{
+  font-size: 16px;
+  font-family: "Press Start 2P", sans-serif;
+  margin: 5px 0;
 }
 
