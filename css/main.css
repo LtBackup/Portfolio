@@ -76,7 +76,7 @@ iframe {
 a, a:focus, a:hover {
   text-decoration: none;
   outline: 0;
-  color: #333333;
+  color:#333333;
 }
 
 .btn.active.focus,
@@ -2557,6 +2557,10 @@ nav a:hover {
   font-size: 16px;
   font-family: "Press Start 2P", sans-serif;
   margin: 5px 0;
+}
+
+.menu-option:hover{
+  color: darkorchid;
 }
 
 .skill-heading{
