@@ -2570,6 +2570,7 @@ nav a:hover {
 }
 
 .download{
+  width: 100%;
   padding: 10px 0;
 }
 
@@ -2577,3 +2578,11 @@ nav a:hover {
   text-align: left;
 }
 
+.white-icon{
+  color: white;
+}
+
+.download-button{
+  text-align: left;
+  width: 100%;
+}
