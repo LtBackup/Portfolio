@@ -2565,9 +2565,14 @@ nav a:hover {
   margin: 5px 0;
 }
 
+#download-case{
+  max-width: 350px;
+}
+
 .download{
-  width: 100%;
-  padding: 10px 0;
+  min-width: 220px;
+  max-width: 300px;
+  padding: 5px 0px;
 }
 
 .bio-text{
